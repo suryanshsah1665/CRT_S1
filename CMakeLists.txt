@@ -20,7 +20,7 @@ add_executable(CRT_S1 main.c
         day2_10.cpp
         day2_11.cpp
         day3_1.cpp
-        arrays.cpp
+        arrays.c
         sumofele.cpp
         sumofevenandodd.cpp
         diagonal.cpp
