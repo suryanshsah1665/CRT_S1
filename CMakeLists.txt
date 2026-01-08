@@ -24,4 +24,5 @@ add_executable(CRT_S1 main.c
         sumofele.c
         sumofevenandodd.c
         diagonal.c
-        uppertriangle.c)
+        uppertriangle.c
+        squarematrix.c)
