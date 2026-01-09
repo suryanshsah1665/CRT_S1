@@ -27,4 +27,7 @@ add_executable(CRT_S1 main.c
         uppertriangle.c
         squarematrix.c
         triangle.c
-        invertedtriangle.c)
+        invertedtriangle.c
+        day5_1.c
+        day5_2fact.c
+)
